@@ -1,0 +1,70 @@
+aiosqlite==0.22.1
+anyio==4.15.1
+appdirs==1.4.4
+attrs @ file:///Users/ec2-user/croot/attrs_1774959665388/work
+Automat @ file:///Users/ec2-user/croot/automat_1781784386104/work
+bcrypt @ file:///opt/miniconda3/conda-bld/bcrypt_1762875119719/work
+beautifulsoup4==4.15.0
+brotli==1.2.0
+brotlicffi @ file:///Users/ec2-user/croot/brotlicffi_1786443916751/work
+certifi @ file:///Users/ec2-user/croot/certifi_1785412579589/work/certifi
+cffi @ file:///Users/ec2-user/croot/cffi_1786696918426/work
+chardet==7.7.0
+charset-normalizer @ file:///Users/ec2-user/croot/charset-normalizer_1782917470004/work
+chat-downloader==0.2.8
+colorlog==6.12.0
+constantly @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_efw7euxpjs/croot/constantly_1703165606144/work
+cryptography @ file:///Users/ec2-user/croot/cryptography-split_1787144919442/work
+cssselect @ file:///Users/ec2-user/croot/cssselect_1788158697409/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+docstring_parser==0.18.0
+fake-useragent==2.2.0
+filelock @ file:///Users/ec2-user/croot/filelock_1787826426925/work
+h11 @ file:///opt/miniconda3/conda-bld/h11_1761931260823/work
+h2==4.4.1
+hpack==4.2.0
+httpcore==1.0.9
+httpx==0.28.1
+hyperframe==6.1.0
+hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
+idna @ file:///Users/ec2-user/croot/idna_1791365102114/work
+incremental @ file:///croot/incremental_1743512672142/work
+isodate==0.7.2
+itemadapter @ file:///Users/ec2-user/croot/itemadapter_1783000736050/work
+itemloaders @ file:///Users/ec2-user/croot/itemloaders_1783354501044/work
+jmespath @ file:///Users/ec2-user/croot/jmespath_1770135999239/work
+loguru==0.7.3
+lxml @ file:///Users/ec2-user/croot/lxml_1784886266750/work
+numpy==2.4.6
+packaging==26.3
+pandas==3.0.6
+parsel @ file:///Users/ec2-user/croot/parsel_1783536329942/work
+praw==8.0.3
+prawcore==4.0.0
+Protego @ file:///Users/ec2-user/croot/protego_1788533466407/work
+py-machineid==1.0.0
+pycparser @ file:///Users/ec2-user/croot/pycparser_1774959673631/work
+PyDispatcher @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_13nh1jwrtr/croot/pydispatcher_1750159269550/work
+pyOpenSSL @ file:///Users/ec2-user/croot/pyopenssl_1787120298520/work
+PyOTP==2.10.0
+PySocks @ file:///Users/ec2-user/croot/pysocks_1790021647646/work
+pytchat==0.5.5
+python-dateutil==2.9.0.post0
+queuelib @ file:///opt/miniconda3/conda-bld/queuelib_1762896903763/work
+requests @ file:///Users/ec2-user/croot/requests_1791386616185/work
+requests-file @ file:///Users/ec2-user/croot/requests-file_1768309825353/work
+Scrapy @ file:///Users/ec2-user/croot/scrapy_1787148088684/work
+service-identity @ file:///Users/ec2-user/croot/service_identity_1780648876592/work
+six==1.17.0
+soupsieve==3.0.3
+tldextract @ file:///Users/ec2-user/croot/tldextract_1768297545613/work
+tomli @ file:///Users/ec2-user/croot/tomli_1789651801807/work
+Twisted @ file:///Users/ec2-user/croot/twisted_1780058738800/work
+twscrape==0.20.1
+typing_extensions @ file:///Users/ec2-user/croot/typing_extensions_1784100998941/work
+update_checker==1.0.0
+urllib3 @ file:///Users/ec2-user/croot/urllib3_1790701107475/work
+w3lib @ file:///opt/miniconda3/conda-bld/w3lib_1764240067736/work
+websocket-client==1.9.2
+wsproto @ file:///Users/ec2-user/croot/wsproto_1786094988443/work
+zope.interface @ file:///Users/ec2-user/croot/zope.interface_1784721807836/work
