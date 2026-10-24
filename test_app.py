@@ -20,9 +20,7 @@ def get(endpoint, params):
 
 with open('data_yt.csv', 'a', newline='', encoding='utf-8-sig') as f:
     writer = csv.writer(f)
-    if f.tell() == 0:
-        writer.writerow(['creator', 'video_id', 'type', 'text'])
-
+    
     for creator in creators:
         data = get('channels', {'part': 'contentDetails', 'forHandle': creator})
         if not data or not data.get('items'):
